@@ -17,3 +17,7 @@ https://modrinth.com/resourcepack/low-on-fire
 ### Simple Grass Flowers
 
 https://modrinth.com/resourcepack/simple-grass-flowers
+
+## Vanilla Evolved
+
+https://modrinth.com/resourcepack/vanilla-evolved
