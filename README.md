@@ -21,3 +21,7 @@ https://modrinth.com/resourcepack/simple-grass-flowers
 ## Vanilla Evolved
 
 https://modrinth.com/resourcepack/vanilla-evolved
+
+## My Minimal Armor
+
+https://modrinth.com/resourcepack/minimal-armor-countxd
