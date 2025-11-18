@@ -1,1 +1,4 @@
-{"forceLeafCulling":true,"forceHideInnerLeaves":true}
+{
+    "forceLeafCulling": true,
+    "forceHideInnerLeaves": true
+}
